@@ -1,0 +1,27 @@
+{
+  "name": "vertcoin",
+  "version": "0.0.0",
+  "description": "vertcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvincarvalho/vertcoin.git"
+  },
+  "keywords": [
+    "nostr",
+    "nostdav",
+    "app"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melvincarvalho/vertcoin/issues"
+  },
+  "homepage": "https://github.com/melvincarvalho/vertcoin#readme",
+  "dependencies": {
+  }
+}
