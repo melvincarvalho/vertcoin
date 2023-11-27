@@ -1,6 +1,6 @@
 {
   "name": "vertcoin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "vertcoin",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,5 @@
     "url": "https://github.com/melvincarvalho/vertcoin/issues"
   },
   "homepage": "https://github.com/melvincarvalho/vertcoin#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
